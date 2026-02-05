@@ -35,3 +35,12 @@ VITO is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike
 4. **Intentional Misuse:** If you use VITO to create, distribute, or manage malicious software, you do so under your own legal responsibility. The author condemns and is not associated with any illegal use of this tool.
 5. **Ownership of Intellectual Property**: All rights, titles, and interests in and to the VITO Core, including but not limited to graphics, code, and documentation, remain the exclusive property of **glitchedslimy**. No ownership is transferred to you by using or contributing to this project.
 6. **"As-Is" Basis:** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 📦 THIRD-PARTY SOFTWARE NOTICES
+VITO incorporates and/or relies on the following third-party libraries to power its CLI experience:
+
+1. **Cobra** (github.com/spf13/cobra): Licensed under the **Apache License 2.0**.
+2. **Lip Gloss** (github.com/charmbracelet/lipgloss): Licensed under the **MIT License**.
+3. **Bubble Tea** (github.com/charmbracelet/bubbletea): Licensed under the **MIT License**.
+
+These components are provided "AS IS". Their respective licenses apply exclusively to the libraries themselves. The original architecture, "Pills" engine, and logic of VITO remain under the **CC BY-NC-SA 4.0 + Custom Disclaimers** stated above.
