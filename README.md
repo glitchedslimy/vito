@@ -25,26 +25,21 @@ _(Distributed binaries for macOS, Linux and Windows will be in the future)_
 vito create [project-name]
 ```
 
-**See help**
+**Explore commands**
 ```bash
 vito --help
 ```
 
 ## 🔌 The "Pills" concept
-_VITO_ is not only a generator; is a **host** for functionalities. A **Pill** can be anything: a personalized linter, an automated deploy launcher or a secret manager locally.
+_VITO_ is not only a generator; is a **host** for productivity. A **Pill** can be anything: a custom linter, an automated deploy launcher, or a secret manager locally.
 
 _To create your own pill, use: `vito create --template pill-base`_
 
 ## 🏗️ Roadmap
-The roadmap can be seen in the official [ROADMAP](./ROADMAP.md).
+Check our future plans in the official [ROADMAP](./ROADMAP.md).
 
 ## 🤝 Contributions
-¿You have a new vitamine or want to improve the core? ¡PRs are welcome!
-1. Fork the project
-2. Create your feature branch with `git checkout -b feature/new-implementation-name`.
-3. Commit your changes `git commit -m 'feat(): added this new thing'`.
-4. Push the branch `git push origin feature/new-implementation-name`.
-5. Open a Pull Request
+Please read our [Contributions](./CONTRIBUTIONS.md) before submitting a Pull Request. **If you don't follow the guidelines, your PR will be ignored or closed immediately.**
 
 ---
 
